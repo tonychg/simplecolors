@@ -15,10 +15,10 @@ highlight! FoldColumn ctermfg=Black
 highlight! Conceal ctermfg=Black
 highlight! LineNr ctermfg=Black
 highlight! Visual ctermbg=Black ctermfg=White
-highlight! CursorLine ctermfg=Black
+highlight! CursorLine ctermfg=Black ctermbg=none
 
-highlight! WildMenu ctermfg=White ctermbg=Grey
-highlight! Search ctermfg=White ctermbg=Grey
+highlight! WildMenu ctermfg=White ctermbg=Black
+highlight! Search ctermfg=White ctermbg=Black
 highlight! Statement ctermfg=Black
 highlight! Identifier ctermfg=Black
 highlight! Type ctermfg=Black
