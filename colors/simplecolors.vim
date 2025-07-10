@@ -107,6 +107,9 @@ highlight! lualine_b_diagnostics_hint_command gui=nocombine guifg=#004c73 guibg=
 highlight! lualine_b_diagnostics_hint_terminal gui=nocombine guifg=#004c73 guibg=#ffffd7
 highlight! lualine_b_diagnostics_hint_inactive gui=nocombine guifg=#004c73 guibg=#ffffd7
 
+highlight! gotplFunctions gui=bold,nocombine guifg=#505050 guibg=#ffffd7
+highlight! goSprigFunctions gui=bold,nocombine guifg=#505050 guibg=#ffffd7
+
 " vim
 hi link vimFunction Identifier
 
