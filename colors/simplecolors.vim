@@ -25,7 +25,7 @@ highlight! Identifier guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! Type guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! PreProc guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! Constant guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
-highlight! Comment guibg=NONE guifg=#424242 ctermbg=NONE ctermfg=232
+highlight! Comment guibg=NONE guifg=#acb0be ctermbg=NONE ctermfg=232
 highlight! Special guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! SpecialKey guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! NonText guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
