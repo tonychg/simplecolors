@@ -14,11 +14,11 @@ highlight! Folded guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! FoldColumn guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! Conceal guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! LineNr guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
-highlight! Visual guibg=Black guifg=White ctermbg=Black ctermfg=White
+highlight! Visual guibg=White guifg=Black ctermbg=White ctermfg=Black
 highlight! CursorLine guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! Pmenu guibg=None guifg=#ffffd7
-highlight! PmenuSel guibg=None guifg=#ffffd7
-highlight! Search ctermfg=Black ctermbg=White
+highlight! PmenuSel guibg=White guifg=Black
+highlight! Search guibg=White guifg=Black
 
 highlight! Statement guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! Identifier guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
