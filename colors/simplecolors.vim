@@ -17,7 +17,7 @@ highlight! LineNr guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! Visual guibg=White guifg=Black ctermbg=White ctermfg=Black
 highlight! CursorLine guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! Pmenu guibg=None guifg=#ffffd7
-highlight! PmenuSel guibg=White guifg=Black
+highlight! PmenuSel guibg=Black guifg=White
 highlight! Search guibg=White guifg=Black
 
 highlight! Statement guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
