@@ -110,6 +110,8 @@ highlight! lualine_b_diagnostics_hint_inactive gui=nocombine guifg=#004c73 guibg
 highlight! gotplFunctions gui=bold,nocombine guifg=#ffffd7 guibg=NONE
 highlight! goSprigFunctions gui=bold,nocombine guifg=#ffffd7 guibg=NONE
 
+hi TreesitterContextBottom gui=underline guisp=Grey
+hi TreesitterContextLineNumberBottom gui=underline guisp=Grey
 " vim
 hi link vimFunction Identifier
 
