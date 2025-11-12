@@ -15,7 +15,7 @@ highlight! FoldColumn guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! Conceal guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! LineNr guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! Visual guibg=White guifg=Black ctermbg=White ctermfg=Black
-highlight! CursorLine guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
+highlight! CursorLine guibg=Black guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! Pmenu guibg=None guifg=#ffffd7
 highlight! PmenuSel guibg=Black guifg=White
 highlight! Search guibg=White guifg=Black
