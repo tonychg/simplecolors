@@ -33,7 +33,12 @@ highlight! Directory guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! link Title Directory
 highlight! link MoreMsg Comment
 highlight! link Question Comment
-highlight! @lsp.type.function guibg=NONE guifg=#ffffd7
+
+highlight! @lsp.type.function guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
+highlight! @lsp.type.method guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
+highlight! @lsp.type.operator guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
+highlight! @lsp.type.parameter guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
+highlight! @lsp.type.variable guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 
 highlight! lualine_transparent gui=nocombine guifg=#ffffd7
 highlight! lualine_b_terminal gui=nocombine guifg=#ffffd7 guibg=NONE
