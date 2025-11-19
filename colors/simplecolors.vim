@@ -19,6 +19,7 @@ highlight! CursorLine guibg=Black guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! Pmenu guibg=None guifg=#ffffd7
 highlight! PmenuSel guibg=Black guifg=White
 highlight! Search guibg=White guifg=Black
+highlight! Function guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 
 highlight! Statement guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
 highlight! Identifier guibg=NONE guifg=#ffffd7 ctermbg=NONE ctermfg=232
@@ -117,6 +118,17 @@ highlight! goSprigFunctions gui=bold,nocombine guifg=#ffffd7 guibg=NONE
 
 hi TreesitterContextBottom gui=underline guisp=Grey
 hi TreesitterContextLineNumberBottom gui=underline guisp=Grey
+
+highlight! @function guibg=Black guifg=#ffffd7 ctermbg=NONE ctermfg=232
+hi @function.call guibg=Black guifg=#ffffd7 ctermbg=NONE ctermfg=232
+hi @function.macro guibg=Black guifg=#ffffd7 ctermbg=NONE ctermfg=232
+hi @function.method guibg=Black guifg=#ffffd7 ctermbg=NONE ctermfg=232
+hi @function.method.call guibg=Black guifg=#ffffd7 ctermbg=NONE ctermfg=232
+hi @function.operator guibg=Black guifg=#ffffd7 ctermbg=NONE ctermfg=232
+hi @variable guibg=Black guifg=#ffffd7 ctermbg=NONE ctermfg=232
+hi @variable.parameter guibg=Black guifg=#ffffd7 ctermbg=NONE ctermfg=232
+hi @variable.member guibg=Black guifg=#ffffd7 ctermbg=NONE ctermfg=232
+
 " vim
 hi link vimFunction Identifier
 
